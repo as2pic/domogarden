@@ -12,6 +12,7 @@ Ajout compteur journalier chlore liquide injecté
 
 Mise à jour page WEB
 
+Mise à jour du hmi
 
 V 2.3
 
