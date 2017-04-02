@@ -2,6 +2,16 @@
 Gestion de piscine via arduino
 
 ChangeLog:
+V3.0
+
+Ajout  de la gestion injection chlore via pompe doseuse
+
+Ajout sauvegatde Log sur SD card
+
+Ajout compteur journalier chlore liquide injecté
+
+Mise à jour page WEB
+
 
 V 2.3
 
