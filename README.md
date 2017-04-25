@@ -2,6 +2,16 @@
 Gestion de piscine via arduino
 
 ChangeLog:
+
+V3.3
+Ajout  de la gestion injection Ph via pompe doseuse
+
+Suppression des zones 5 et 6 dans le code, libération de la mémoire
+
+Optimisation et libération espace RAM
+
+Suppression relais Hors-gel (Le Hors-Gel pilote directement le relais pompe filtration)
+
 V3.0
 
 Ajout  de la gestion injection chlore via pompe doseuse
