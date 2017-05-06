@@ -3,6 +3,9 @@ Gestion de piscine via arduino
 
 ChangeLog:
 
+V3.4
+Ajout monitoring température eau piscine + gestion temps filtration
+
 V3.3
 Ajout  de la gestion injection Ph via pompe doseuse
 
